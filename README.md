@@ -2,7 +2,7 @@
 Aplikasi Flutter Sederhana
 
 ### Screenshot
-![Flutter Apps](https://i.ibb.co/TwgY7kC/Screenshot-20191118-190541.jpg "source: imgbb.com/")
+![Flutter Apps](https://i.ibb.co/yfNt9Gk/Screenshot-20191118-190541-min.jpg "source: imgbb.com/")
 
 ### Built With
 - [Flutter](https://flutter.dev)
